@@ -1,5 +1,5 @@
 # Associate Data Scientist Certification Project
-In this project I did classification using the Gender Classification dataset which you can see in the following <a href=https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset/data)> LINK. 
+In this project I did classification using the Gender Classification dataset which you can see in the following <a href=https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset/data)> LINK. \n
 This dataset contains 7 Features and a label column 
 <or>
   <li>long_hair - This column contains 0's and 1's where 1 is "long hair" and 0 is "not long hair".</li>
