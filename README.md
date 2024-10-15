@@ -7,3 +7,5 @@ This project was created as part of my journey to complete Associate Data Scient
 <li>To preprocess and explore the dataset to gain insights.</li>
 <li>To implement and evaluate the Decision Tree algorithm for gender classification.</li>
 </ol>
+<br>
+In this dataset, Decision Tree model produces an accuracy value of 96%
