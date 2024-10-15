@@ -14,4 +14,4 @@ This dataset contains 7 Features and a label column
   <li>gender - This is either "Male" or "Female"</li>
 </or>
 
-Anyway, i create this project to finish certification test Associate Data Scientist by BNSP. 
+In this project, i use Decision tree
